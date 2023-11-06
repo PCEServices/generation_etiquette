@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/plugins/generation_etiquette" >
+        <file>icon.png</file>
+    </qresource>
+</RCC>
